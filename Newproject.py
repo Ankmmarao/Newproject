@@ -10,8 +10,7 @@ from pygments.formatters import HtmlFormatter
 st.title("The New Project Analysis")
 from PIL import Image
 
-logo=Image.open(r"C:\Users\India\OneDrive\Pictures\durgamma.png")
-st.write(logo)
+
 st.title("PYTHON PROGRAM")
 st.sidebar.title("Most Import Books")
 names=["1.Python","2.Features of Python","3.Conditional Statements","4.Basic Loops","5.Basic Programs"]
